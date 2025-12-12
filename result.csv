@@ -1,0 +1,6 @@
+URL,STATUS_CODE,STATE
+https://www.youtube.com,200,UP
+https://www.google.com,200,UP
+https://github.com,200,UP
+https://www.facebook.com,200,UP
+https://www.thisurldoesntexists.com,"HTTPSConnectionPool(host='www.thisurldoesntexists.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x105143e00>: Failed to resolve 'www.thisurldoesntexists.com' ([Errno 8] nodename nor servname provided, or not known)""))",DOWN
