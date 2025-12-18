@@ -1,5 +1,0 @@
-2025-12-12 19:01:27,396 - ERROR - Some error occured while calling https://www.thisurldoesntexists.com HTTPSConnectionPool(host='www.thisurldoesntexists.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x105143e00>: Failed to resolve 'www.thisurldoesntexists.com' ([Errno 8] nodename nor servname provided, or not known)"))
-2025-12-12 19:01:28,079 - INFO - api calling successful to https://www.google.com ,status code: 200
-2025-12-12 19:01:28,091 - INFO - api calling successful to https://www.facebook.com ,status code: 200
-2025-12-12 19:01:28,416 - INFO - api calling successful to https://www.youtube.com ,status code: 200
-2025-12-12 19:01:30,295 - INFO - api calling successful to https://github.com ,status code: 200
